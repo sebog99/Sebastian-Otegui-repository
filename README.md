@@ -1,7 +1,7 @@
 # Sebastian Otegui's repository
 Hello 🖐️!!!
 This is a repository that works as a portfolio to showcase my programming abilities 💻.
-In here you can find progect that involve _Python_ 🐍 with data manipulation 💾. Some are only Python code, but there also some that use popular libraries like *Pandas* 🐼 and *NumPy* 📊 among others!!!
+In here you can find progect that involve `Python` 🐍 with data manipulation 💾. Some are only Python code, but there also some that use popular libraries like *Pandas* 🐼 and *NumPy* 📊 among others!!!
 
 ## The projects are as follows:
 
