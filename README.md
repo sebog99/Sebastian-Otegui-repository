@@ -8,28 +8,28 @@ In here you can find progect that involve `Python` 🐍 with data manipulation �
 1.- NBA Trends Project:
   Make insightful analysis and represent those results visually using libraries like `scipy`, `matplotlib`, and `seaborn` into histograms 📊, scatterplots and boxplots.
 
-2.- EDA: Diagnosing Diabetes:
+2.- Airline Analysis:
+  Visualization for `EDA` (Exploratoy Data Analysis). Messy dataset, exploring __Univariate, Bivariate, and Multivariate Analysis__. Using `Pandas` 🐼, `NumPy` 📊 and `seaborn` 📊 libraries to easily interpret data.
+  
+3.- EDA: Diagnosing Diabetes:
   Using `EDA` (Exploratoy Data Analysis) to inspect clean and validate data from csv files. Using the famous the libraries `Pandas` 🐼 and `NumPy` 📊.
 
-3.- Airline Analysis:
-  Visualization for `EDA` (Exploratoy Data Analysis). Messy dataset, exploring __Univariate, Bivariate, and Multivariate Analysis__. Using `Pandas` 🐼, `NumPy` 📊 and `seaborn` 📊 libraries to easily interpret data.
-
-3.- Page Funnel Visits:
+4.- Page Funnel Visits:
   Using `Pandas` 🐼 library, `ETL` (Extract Transform, and Loading) the information from different csv filesto create useful `DataFrames`. Then analyze the information to uncover patterns and obtain actionable insights.
 
-4.- U.S. Medical Insurance Costs:
+5.- U.S. Medical Insurance Costs:
   In this project, a CSV file with medical insurance costs will be investigated using Python basic fundamentals. The goal with this project will be to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
 
-5.- Hurricane Analysis:
+6.- Hurricane Analysis:
   Organize and manipulate data using Python lists and dictionaries to categorize the information from various hurricanes 🌪️.
 
-6.- Product Defects:
+7.- Product Defects:
   Distribution theory usibg the `Poisson distribution` to to rate the exoected parameter of defects.
 
-7.- Reggie Linear Regression Skeleton:
+8.- Reggie Linear Regression Skeleton:
   Simple `Linear Regresion` code with Python 🐍.
   
-8.- Frida Kahlo Project:
+9.- Frida Kahlo Project:
   Using Python lists to regroup information.
 
 
