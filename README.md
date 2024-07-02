@@ -20,10 +20,13 @@ In here you can find progect that involve `Python` 🐍 with data manipulation �
 5.- Hurricane Analysis:
   Organize and manipulate data using Python lists and dictionaries to categorize the information from various hurricanes 🌪️.
 
-6.- Reggie Linear Regression Skeleton:
+6.- Product Defects:
+  Distribution theory usibg the `Poisson distribution` to to rate the exoected parameter of defects.
+
+7.- Reggie Linear Regression Skeleton:
   Simple `Linear Regresion` code with Python 🐍.
   
-7.- Frida Kahlo Project:
+8.- Frida Kahlo Project:
   Using Python lists to regroup information.
 
 
