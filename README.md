@@ -11,6 +11,9 @@ In here you can find progect that involve `Python` 🐍 with data manipulation �
 2.- EDA: Diagnosing Diabetes:
   Using `EDA` (Exploratoy Data Analysis) to inspect clean and validate data from csv files. Using the famous the libraries `Pandas` 🐼 and `NumPy` 📊.
 
+3.- Airline Analysis:
+  Visualization for `EDA` (Exploratoy Data Analysis). Messy dataset, exploring __Univariate, Bivariate, and Multivariate Analysis__. Using `Pandas` 🐼, `NumPy` 📊 and `seaborn` 📊 libraries to easily interpret data.
+
 3.- Page Funnel Visits:
   Using `Pandas` 🐼 library, `ETL` (Extract Transform, and Loading) the information from different csv filesto create useful `DataFrames`. Then analyze the information to uncover patterns and obtain actionable insights.
 
