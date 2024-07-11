@@ -20,19 +20,22 @@ In here you can find progect that involve `Python` 🐍 with data manipulation �
 5.- Page Funnel Visits:
   Using `Pandas` 🐼 library, `ETL` (Extract Transform, and Loading) the information from different csv filesto create useful `DataFrames`. Then analyze the information to uncover patterns and obtain actionable insights.
 
-6.- U.S. Medical Insurance Costs:
+6.- Cleaning US Census Data:
+  Using `Pandas` and `matplotlib`, diferent `CSV` files were merged to perform **data wrangling (munging) and tidying**. Then being able to perfom data analysis on different populations with histograms 📊.
+
+7.- U.S. Medical Insurance Costs:
   In this project, a CSV file with medical insurance costs will be investigated using Python basic fundamentals. The goal with this project will be to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
 
-7.- Hurricane Analysis:
+8.- Hurricane Analysis:
   Organize and manipulate data using Python lists and dictionaries to categorize the information from various hurricanes 🌪️.
 
-8.- Product Defects:
+9.- Product Defects:
   Distribution theory usibg the `Poisson distribution` to to rate the exoected parameter of defects.
 
-9.- Reggie Linear Regression Skeleton:
+10.- Reggie Linear Regression Skeleton:
   Simple `Linear Regresion` code with Python 🐍.
   
-10.- Frida Kahlo Project:
+11.- Frida Kahlo Project:
   Using Python lists to regroup information.
 
 
