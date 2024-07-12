@@ -10,6 +10,9 @@ In here you can find progect that involve `Python` 🐍 with data manipulation �
 
 2.- Airline Analysis:
   Visualization for `EDA` (Exploratoy Data Analysis). Messy dataset, exploring __Univariate, Bivariate, and Multivariate Analysis__. Using `Pandas` 🐼, `NumPy` 📊 and `seaborn` 📊 libraries to easily interpret data.
+
+3.- Biodiversity Starter:
+  The goal of this project is to analyze biodiversity data from the National Parks Service, particularly around various species observed in different national park locations. This project will scope, analyze, prepare, plot data, and seek to explain the findings from the analysis using libraries like `Pandas` 🐼, `scipy`, `matplotlib`, `seaborn` 📊, and `regex`.
   
 3.- EDA: Diagnosing Diabetes:
   Using `EDA` (Exploratoy Data Analysis) to inspect clean and validate data from csv files. Using the famous the libraries `Pandas` 🐼 and `NumPy` 📊.
