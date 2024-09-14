@@ -1,1 +1,1 @@
-U.S. Medical Insurance Costs: In this project, a CSV file with medical insurance costs will be investigated using `Python` basic fundamentals. The goal with this project will be to analyze various attributes within insurance.csv to learn more about the patient information in the file and gain insight into potential use cases for the dataset.
+Airline Analysis: Visualization for EDA (Exploratoy Data Analysis). Messy dataset, exploring Univariate, Bivariate, and Multivariate Analysis. Using Pandas 🐼, NumPy 📊 and seaborn 📊 libraries to easily interpret data.
