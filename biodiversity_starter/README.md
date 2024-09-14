@@ -1,0 +1,1 @@
+Biodiversity Starter: The goal of this project is to analyze biodiversity data from the National Parks Service, particularly around various species observed in different national park locations. This project will scope, analyze, prepare, plot data, and seek to explain the findings from the analysis using libraries like Pandas 🐼, scipy, matplotlib, seaborn 📊, and regex.
