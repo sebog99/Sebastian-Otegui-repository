@@ -1,0 +1,1 @@
+Cleaning US Census Data: Using Pandas and matplotlib, diferent CSV files were merged to perform data wrangling (munging) and tidying. Then being able to perfom data analysis on different populations with histograms 📊.
